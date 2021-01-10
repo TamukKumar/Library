@@ -2,4 +2,8 @@
   <h1 class="text">LIBRARY</h1>
 </div>
 
+<div *ngIf="!this.libraryService.isIndia" class="header text-center">
+  <span class="text">This website cannot be accessed outside India.</span>
+</div>
+
 <router-outlet></router-outlet>
