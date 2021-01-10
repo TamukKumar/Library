@@ -1,0 +1,14 @@
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\DataTransfer.dll.config
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\DataTransfer.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\DomainEntities.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\EntityFramework.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\DomainEntities.pdb
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\EntityFramework.xml
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\obj\Debug\DataTransfer.csprojAssemblyReference.cache
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\obj\Debug\DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\obj\Debug\DataTransfer.csproj.CopyComplete
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\obj\Debug\DataTransfer.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DataTransfer\obj\Debug\DataTransfer.pdb

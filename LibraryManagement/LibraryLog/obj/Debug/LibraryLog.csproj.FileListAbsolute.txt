@@ -1,0 +1,6 @@
+C:\Users\sprat\source\repos\Library\LibraryManagement\LibraryLog\bin\Debug\LibraryLog.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\LibraryLog\bin\Debug\LibraryLog.pdb
+C:\Users\sprat\source\repos\Library\LibraryManagement\LibraryLog\obj\Debug\LibraryLog.csprojAssemblyReference.cache
+C:\Users\sprat\source\repos\Library\LibraryManagement\LibraryLog\obj\Debug\LibraryLog.csproj.CoreCompileInputs.cache
+C:\Users\sprat\source\repos\Library\LibraryManagement\LibraryLog\obj\Debug\LibraryLog.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\LibraryLog\obj\Debug\LibraryLog.pdb

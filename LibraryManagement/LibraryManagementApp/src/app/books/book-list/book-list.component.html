@@ -1,0 +1,60 @@
+
+<div class="container">
+<div class="row">
+    <div class="col-12 text-center">
+        <h2 class="text-center">Book List</h2>
+    </div>
+</div>
+<form>
+<div class="row mt-3">
+    <div class="col-12 text-center">
+        <label for="BookName">Book Name:</label>
+        <input class="ml-2" name="BookName" [(ngModel)]="BookName">
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-12 text-center">
+        <label class="ml-3" for="Author">Author:</label>
+        <input class="ml-4" name="Author" [(ngModel)]="Author">
+    </div>
+</div>
+
+<div class="row mt-2 ml-3">
+    <div class="col-12 text-center">
+        <button (click)="SearchBooks();">Search</button>
+        <button class="ml-2 " (click)="Clear();">Clear</button>
+    </div>
+</div>
+</form>
+<div class="row mt-3">
+    <div class="offset-3 col-6">
+    <table class="table table-bordered ml-2">
+        <thead>
+            <th style="width:40%;">
+                Book Name
+            </th>
+            <th style="width:40%;">
+                Author
+            </th>
+            <th style="width:40%;">
+                Availability
+            </th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let book of bookList">
+                <td>
+                    {{book.BookName}}
+                </td>
+                <td>
+                    {{book.Author}}
+                </td>
+                <td>
+                    {{book.Availability ? 'Yes' : 'No'}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+</div>
+</div>

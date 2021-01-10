@@ -1,0 +1,6 @@
+C:\Users\sprat\source\repos\Library\LibraryManagement\DomainEntities\bin\Debug\DomainEntities.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DomainEntities\bin\Debug\DomainEntities.pdb
+C:\Users\sprat\source\repos\Library\LibraryManagement\DomainEntities\obj\Debug\DomainEntities.csprojAssemblyReference.cache
+C:\Users\sprat\source\repos\Library\LibraryManagement\DomainEntities\obj\Debug\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\sprat\source\repos\Library\LibraryManagement\DomainEntities\obj\Debug\DomainEntities.dll
+C:\Users\sprat\source\repos\Library\LibraryManagement\DomainEntities\obj\Debug\DomainEntities.pdb

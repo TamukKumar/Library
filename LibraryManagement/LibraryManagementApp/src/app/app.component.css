@@ -1,0 +1,10 @@
+.header{
+    background-color:lightblue;
+    height:70px;
+    vertical-align: middle;
+}
+
+.text{
+    line-height: 51px;
+    text-align: center;
+}
